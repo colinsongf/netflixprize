@@ -1,0 +1,12 @@
+This was draft python code for the Netflix Competition. I moved on to C after playing around with this code for a bit.
+
+
+No idea what the status on this code, I don't even know if it runs.
+The algorithm is there though. The results should be around 0.96 RMSE.
+
+The first version ran locally. Later I played around with a Producer/Consumer distributed architecture.
+
+12 Nov, 2010
+Luis Rei
+luis.rei@gmail.com
+http://luisrei.com
